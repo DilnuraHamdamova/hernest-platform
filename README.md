@@ -1,2 +1,2 @@
-# hernest-platform-
+# hernest-platform
 Women's services marketplace platform 
